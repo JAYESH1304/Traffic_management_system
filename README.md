@@ -1,6 +1,8 @@
 # Traffic_management_system
 Introduction: Traffic congestion is a major problem faced by cities around the world, leading to wasted time, increased fuel consumption, and increased air pollution. To tackle this problem, a smart traffic management system is required. In this project, we aim to develop a traffic management system using YOLOv5 and Pygame. The system will count the number of vehicles passing through an intersection and control traffic signals accordingly.
 
+https://github.com/JAYESH1304/Traffic_management_system/blob/main/test1.mp4
+
 Methodology:
 
 Object Detection using YOLOv5: The first step in the project is to detect the number of vehicles passing through the intersection. We will use YOLOv5, a state-of-the-art object detection algorithm, to detect vehicles in real-time. The algorithm will be trained on a dataset of images of vehicles.
